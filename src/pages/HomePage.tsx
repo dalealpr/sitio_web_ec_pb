@@ -1,4 +1,3 @@
-import React from 'react'
 import Carrusel from '../components/common/Carrusel'
 
 const HomePage = () => {
